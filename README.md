@@ -6,7 +6,6 @@ A simple and efficient To-Do List application built with HTML, CSS, and JavaScri
 ## Features
 
 - Add new tasks with ease.
-- Mark tasks as completed/uncompleted.
 - Remove tasks once they are done.
 - Responsive design for mobile and desktop use.
 - Local storage to save tasks even after page refresh.
